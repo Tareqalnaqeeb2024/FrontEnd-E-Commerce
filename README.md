@@ -60,5 +60,5 @@ A comprehensive and responsive **admin dashboard** for managing an e-commerce st
 ```markdown
 ![Login ]([E-Commerce/Admin/images/Admin1.png])
 ![Dashboard Preview](images/Admin2.png)
-![Products Management](images/Admim3.png)
-![Orders Management](images/Admim5.png)
+![Products Management](images/Admin3.png)
+![Orders Management](images/Admin5.png)
