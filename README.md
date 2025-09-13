@@ -58,7 +58,7 @@ A comprehensive and responsive **admin dashboard** for managing an e-commerce st
 > *(يمكنك إضافة صور واجهة المشروع هنا بعد رفعها في مجلد `images/` مثل:)*
 
 ```markdown
-![Login Management](Admin/images/Admim1.png)
+![Login ](E-Commerce/Admin/images/Admin1.png)
 ![Dashboard Preview](images/Admin2.png)
 ![Products Management](images/Admim3.png)
 ![Orders Management](images/Admim5.png)
