@@ -59,8 +59,14 @@ A comprehensive and responsive **admin dashboard** for managing an e-commerce st
 
 ```markdown
 
+![Login](images/Admin1.png)
+*Login Interface*
 
-![Login](FrontEnd/images/Admin1.png)
-![Dashboard Preview](https://raw.githubusercontent.com/Tareqalnaqeeb2024/FrontEnd-E-Commerce/main/images/Admin2.png)
-![Products Management](https://raw.githubusercontent.com/Tareqalnaqeeb2024/FrontEnd-E-Commerce/main/images/Admin3.png)
-![Orders Management](https://raw.githubusercontent.com/Tareqalnaqeeb2024/FrontEnd-E-Commerce/main/images/Admin5.png)
+![Dashboard](images/Admin2.png)
+*Dashboard with Analytics*
+
+![Products Management](images/Admin3.png)
+*Products Management Page*
+
+![Orders Management](images/Admin5.png)
+*Orders Management Page*
