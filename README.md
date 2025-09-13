@@ -59,8 +59,7 @@ A comprehensive and responsive **admin dashboard** for managing an e-commerce st
 
 ```markdown
 
-![Login](images/Admin1.png){:width="800" height="450"}
-
+![Login](<img width="1910" height="912" alt="Image" src="https://github.com/user-attachments/assets/cb7c8946-38d4-476f-9cc0-aca29ae3e5d8" />)
 ![Dashboard](images/Admin2.png)
 *Dashboard with Analytics*
 
