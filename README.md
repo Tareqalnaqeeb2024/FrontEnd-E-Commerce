@@ -1,3 +1,4 @@
+<img width="1561" height="781" alt="Admin1" src="https://github.com/user-attachments/assets/75585428-9d2c-4d94-993a-f56bdeb4fafe" />
 # 🛒 E-commerce Admin Dashboard
 
 A comprehensive and responsive **admin dashboard** for managing an e-commerce store, built with modern web technologies.
